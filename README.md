@@ -1,4 +1,4 @@
-# Intelligent Daily Digest Agent  
+# Daily Digest Agent  
 *A role-aware, agentic system for surfacing the most relevant information from Slack.*
 
 ---
